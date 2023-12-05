@@ -7,7 +7,8 @@ This repository contains a simple Python script for data analysis. The script us
 1. Install the required libraries:
 
     ```bash
-    pip install pandas matplotlib
+    pip install pandas
+    pip install matplotlib
     ```
 
 2. Run the script:
